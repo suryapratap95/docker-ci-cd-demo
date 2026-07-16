@@ -1,0 +1,25 @@
+FREQUENTLY ASKED QUESTIONS - ABC BANK
+
+Q: What are ABC Bank's customer support hours?
+A: Phone banking support is available 24x7 at 1800-123-4567 (toll-free). Branches are open Monday to Friday from 9:30 AM to 4:30 PM, and Saturday from 9:30 AM to 1:00 PM. Branches are closed on Sundays and public holidays.
+
+Q: How do I reset my net banking password?
+A: Customers can reset their net banking password by clicking "Forgot Password" on the login page and verifying their identity using their registered mobile number and date of birth. A new password can also be set by visiting a branch with valid ID proof.
+
+Q: How do I update my registered mobile number?
+A: Registered mobile numbers can be updated by visiting a branch with ID proof, or through the mobile app under Profile Settings, which requires OTP verification on both the old and new numbers.
+
+Q: What is the daily ATM withdrawal limit?
+A: The default daily ATM withdrawal limit is Rs. 25,000 for Basic Savings accounts, Rs. 50,000 for Premium Savings accounts, and Rs. 40,000 for credit cards. Limits can be adjusted by the customer through the mobile app, subject to a maximum cap based on the account type.
+
+Q: How do I report a fraudulent transaction?
+A: Customers should immediately call the 24x7 fraud helpline at 1800-999-8888 or raise a dispute through the mobile app under "Report a Transaction Issue." The bank will block the affected card or account and begin an investigation, typically resolved within 7-10 business days.
+
+Q: Does ABC Bank charge for NEFT, RTGS, or IMPS transfers?
+A: NEFT and RTGS transfers are free of charge when done through net banking or the mobile app. IMPS transfers are free up to Rs. 1,00,000 per month; a nominal fee of Rs. 5 applies beyond that limit. Branch-assisted transfers may incur additional charges.
+
+Q: How do I close my bank account?
+A: Submit a written account closure request at any branch along with your passbook, unused chequebook leaves, and debit card. Ensure the account balance is withdrawn or transferred beforehand. Closure requests are processed within 3-5 business days.
+
+Q: What should I do if my debit or credit card is not working?
+A: First check if the card has expired or if there are sufficient funds or credit limit available. If the issue persists, contact customer support to check for a technical block, or visit the nearest branch or ATM to request a replacement card.

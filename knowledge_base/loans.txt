@@ -1,0 +1,37 @@
+LOANS - ABC BANK
+
+Personal Loan:
+- Loan amount: Rs. 50,000 to Rs. 20,00,000
+- Interest rate: Starting from 10.5% per annum, reducing balance basis
+- Tenure: 12 to 60 months
+- Processing fee: 1% of loan amount plus applicable taxes
+- Eligibility: Salaried individuals aged 21-58 with minimum monthly income of Rs. 25,000
+- Required documents: ID proof, address proof, last 3 months salary slips, last 6 months bank statement
+
+Home Loan:
+- Loan amount: Up to Rs. 5,00,00,000, subject to property value and eligibility
+- Interest rate: Starting from 8.5% per annum, floating rate linked to repo rate
+- Tenure: Up to 30 years
+- Processing fee: 0.5% of loan amount, minimum Rs. 5,000
+- Loan-to-value ratio: Up to 80% of property value
+- Eligibility: Salaried or self-employed individuals aged 21-65 at loan maturity
+
+Car Loan:
+- Loan amount: Up to 90% of on-road price of the vehicle
+- Interest rate: Starting from 9.0% per annum
+- Tenure: 12 to 84 months
+- Processing fee: Rs. 3,000 flat or 1% of loan amount, whichever is lower
+- Eligibility: Salaried individuals with minimum income of Rs. 20,000 per month; self-employed individuals with 2 years of income tax returns
+
+Education Loan:
+- Loan amount: Up to Rs. 1,50,00,000 for studies abroad, up to Rs. 40,00,000 for studies in India
+- Interest rate: Starting from 9.5% per annum
+- Moratorium period: Course duration plus 6 months to 1 year
+- Collateral required: For loans above Rs. 7,50,000, collateral security or third-party guarantee is required
+- Tax benefit: Interest paid is eligible for deduction under Section 80E of the Income Tax Act
+
+Loan Prepayment:
+Personal loans and car loans can be prepaid after 12 EMIs with a prepayment charge of 2-4% on the outstanding principal. Home loans on floating interest rates have no prepayment penalty for individual borrowers.
+
+Loan Application Process:
+Loans can be applied for online via the ABC Bank website or mobile app, or in person at any branch. Approval typically takes 2-5 business days for personal and car loans, and 7-15 business days for home loans, subject to document verification and credit assessment.

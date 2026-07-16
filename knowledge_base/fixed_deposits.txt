@@ -1,0 +1,32 @@
+FIXED DEPOSITS - ABC BANK
+
+Regular Fixed Deposit:
+- Minimum deposit amount: Rs. 5,000
+- Tenure options: 7 days to 10 years
+- Interest rates: 4.5% to 7.25% per annum depending on tenure (as of last published rate card)
+- Premature withdrawal: Allowed with a penalty of 1% on the applicable rate
+- Interest payout options: Monthly, quarterly, or on maturity (cumulative)
+
+Senior Citizen Fixed Deposit:
+- Same tenure options as Regular Fixed Deposit
+- Additional interest rate of 0.5% over the regular rate card
+- Minimum deposit amount: Rs. 5,000
+
+Tax-Saving Fixed Deposit:
+- Minimum deposit amount: Rs. 10,000
+- Fixed tenure: 5 years, no premature withdrawal allowed
+- Interest rate: 6.5% per annum
+- Tax benefit: Eligible for deduction up to Rs. 1,50,000 under Section 80C of the Income Tax Act
+- Interest earned is taxable as per the depositor's income tax slab
+
+Recurring Deposit:
+- Minimum monthly installment: Rs. 500
+- Tenure options: 6 months to 10 years
+- Interest rates: Same as Regular Fixed Deposit for the corresponding tenure
+- Missed installment penalty: Rs. 1.50 per Rs. 100 per month of default
+
+Loan Against Fixed Deposit:
+Customers can avail a loan or overdraft against their fixed deposit up to 90% of the deposit value. The interest rate charged is typically 1-2% above the fixed deposit interest rate. This is a convenient option since it does not require breaking the deposit prematurely.
+
+TDS on Fixed Deposits:
+Tax Deducted at Source (TDS) is applicable if the total interest earned across all fixed deposits with the bank exceeds Rs. 40,000 in a financial year (Rs. 50,000 for senior citizens). Customers can submit Form 15G or 15H to avoid TDS if their total income is below the taxable limit.
