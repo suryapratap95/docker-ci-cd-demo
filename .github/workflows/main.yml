@@ -17,7 +17,7 @@ jobs:
           username: ${{ secrets.username }}
           password: ${{ secrets.password }}
           port: ${{ secrets.port || 22 }}
-          scripts: 
+          script: 
             set -r
             cd ${{ secrets.EC2_APP_DIR }}
             git pull origin main
