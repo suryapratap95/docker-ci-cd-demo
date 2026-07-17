@@ -15,7 +15,7 @@ jobs:
         with:
           host: ${{ secrets.host }}
           username: ${{ secrets.username }}
-          password: ${{ secrets.password }}
+          password: ${{ secrets.key }}
           port: ${{ secrets.port || 22 }}
           script: 
             set -r
