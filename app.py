@@ -37,7 +37,7 @@ for message in st.session_state.messages:
 
 
 # addressing user questions
-user_input = st.chat_input("Ask about accounts, credit cards, loans, FDs..")
+user_input = st.chat_input("Ask about accounts, credit cards, loans, FAQs, FDs..")
 if user_input:
     st.session_state.messages.append({"role":"user", "content": user_input})
     with st.chat_message("user"):
